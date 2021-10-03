@@ -9,9 +9,9 @@ This is python command-line interface (CLI) application that gives users the abi
 
 This project uses python 3.7 along with the following installed packages:
 
-* [fire](https://github.com/google/python-fire) - For the command line interface, help page, and entrypoint.
+::[fire](https://github.com/google/python-fire) - Python library for automatically generating CLI.
 
-* [questionary](https://github.com/tmbo/questionary) - For interactive user prompts and dialogs
+::[questionary](https://github.com/tmbo/questionary) - Python library for building CLI.
 
 ---
 
