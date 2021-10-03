@@ -101,8 +101,6 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
-# 
-
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
 
@@ -110,9 +108,10 @@ def save_qualifying_loans(qualifying_loans):
         qualifying_loans (list of lists): The qualifying bank loans.
     """
 
-    '''Acceptance Criteria:  Prompts user to save CSV file'''
+    """Acceptance Criteria:  Prompts user to save CSV file"""
 
     save_qualifying_loans = questionary.confirm("Please confirm if you would like to save your list of qualifying loans as a CSV file.").ask()
+    
     # User should be able to opt out of saving the file.
     if not save_qualifying_loans:
         sys.exit("You have opted out of saving your list of qualifying loans.")
@@ -124,7 +123,7 @@ def save_qualifying_loans(qualifying_loans):
     # Prompt for a file path to save the file.
     target_folder = questionary.path("Enter a CSV file path to save your list of qualifying_loans").ask()
        
-    # Adding header information to CSV file
+    # Including header information to CSV file
     header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
 
     # Saving results in file path under qualifying_loans.csv
@@ -132,6 +131,7 @@ def save_qualifying_loans(qualifying_loans):
 
     save_csv(csvpath, header, qualifying_loans)
    
+    # Prints status of current process
     print("Writing qualifying_loans to a CSV file...")
     print(f"A copy of your CSV has been saved to {csvpath}")
    
