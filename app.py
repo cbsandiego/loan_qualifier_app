@@ -112,21 +112,25 @@ def save_qualifying_loans(qualifying_loans):
 
     save_qualifying_loans = questionary.confirm("Please confirm if you would like to save your list of qualifying loans as a CSV file.").ask()
     
-    # User should be able to opt out of saving the file.
+    """System informs user that they have decided not to save CSV file and exits out of system."""
+
     if not save_qualifying_loans:
         sys.exit("You have opted out of saving your list of qualifying loans to a CSV file.")
 
-    # If no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
+    """ If no qualifying loans exist
+    
+    when prompting a user to save a file, then the program should notify the user and exit. """
+
     if not qualifying_loans:
         sys.exit("Sorry, we are unable to identify any qualifying loans at the moment.")
    
-    # Prompt for a file path to save the file.
+    """ Asks user to provide target folder path to save CSV file """
     target_folder = questionary.path("Enter a CSV file path to save your list of qualifying_loans").ask()
        
-    # Including header information to CSV file
+    # Header information to CSV file
     header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
 
-    # Saving results in file path under qualifying_loans.csv
+    """ Saving results in file path under qualifying_loans.csv """
     csvpath = Path(target_folder + '/qualifying_loans.csv')
 
     save_csv(csvpath, header, qualifying_loans)
