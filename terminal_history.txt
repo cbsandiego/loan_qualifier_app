@@ -1,0 +1,50 @@
+  972  git commit -m "removing qualifying loans and terminal history from respository"
+  973  git push
+  974  git status
+  975  git push
+  976  conda activate dev
+  977  cd Desktop/FinTech/02-Financial-Applications-with-Python
+  978  history -50 > terminal_history.txt
+  979  cd loan_qualifier_app
+  980  git status
+  981  git add app.py
+  982  git commit -m "updated app comments for easy reference"
+  983  git push
+  984  git restore app.py
+  985  git status
+  986  git push
+  987  git restore app.py
+  988  git status
+  989  git add app.py
+  990  git commit -m "cleaning notes in app"
+  991  git push
+  992  git commits
+  993  git commit
+  994  git log --stat
+  995  conda activate dev
+  996  cd Desktop/FinTech/02-Financial-Applications-with-Python/loan_qualifier_app
+  997  git status
+  998  git fetch
+  999  git status
+ 1000  git pull
+ 1001  conda activate dev
+ 1002  cd Desktop/FinTech/02-Financial-Applications-with-Python/loan_qualifier_app
+ 1003  git status
+ 1004  git commit "fixing origin/main conflict"
+ 1005  git commit -m "fixing origin/main conflict"
+ 1006  git rm qualifying_loans.csv
+ 1007  git status
+ 1008  git push
+ 1009  git status
+ 1010  python app.py
+ 1011  python app.py
+ 1012  python app.py
+ 1013  git status
+ 1014  git add app.py
+ 1015  git commit -m "changing verbiage"
+ 1016  git push
+ 1017  git status
+ 1018  git add data/qualifying_loans.csv
+ 1019  git commit -m "testing CSV output location"
+ 1020  git push
+ 1021  git status
