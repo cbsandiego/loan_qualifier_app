@@ -1,0 +1,1069 @@
+   50  python the_401k_shuffle.py
+   51  python the_401k_shuffle.py
+   52  python the_401k_shuffle.py
+   53  python the_401k_shuffle.py
+   54  python the_401k_shuffle.py
+   55  python the_401k_shuffle.py
+   56  python hello_python.py
+   57  cd ..
+   58  ls
+   59  cd..
+   60  cd ..
+   61  ls
+   62  cd hello_python.py
+   63  python hello_python.py
+   64  clear
+   65  ls
+   66  cd 01_Conditional_Statement
+   67  ls
+   68  cd Unsolved
+   69  ls
+   70  python conditional_statement.py
+   71  python conditional_statement.py
+   72  python conditional_statement.py
+   73  python conditional_statement.py
+   74  python conditional_statement.py
+   75  ls
+   76  cd ..
+   77  cd ..
+   78  ls
+   79  python hello_python.py
+   80  python hello_python.py
+   81  python hello_python.py
+   82  clear
+   83  cd ..
+   84  cd ..
+   85  ls
+   86  cd Fintech-Workspace
+   87  ls
+   88  cd Python_Project
+   89  ls
+   90  cd 02_Nested_Conditionals
+   91  ls
+   92  cd Unsolved
+   93  ls
+   94  python nested_conditionals.py
+   95  python nested_conditionals.py
+   96  cd ..
+   97  cd ..
+   98  ls
+   99  cd 03_Split_Second_Homebuying
+  100  ls
+  101  cd Unsolved
+  102  python split_second_homebuying.py
+  103  python split_second_homebuying.py
+  104  clear
+  105  cd ..
+  106  cd ..
+  107  ls
+  108  python hello_python.py
+  109  python hello_python.py
+  110  python hello_python.py
+  111  python hello_python.py
+  112  python hello_python.py
+  113  python hello_python.py
+  114  clear
+  115  cd ..
+  116  ls
+  117  cd Python_Project
+  118  ls
+  119  cd 01_A_Definitive_Buy
+  120  cd Unsolved
+  121  python a_definitive_buy.py
+  122  cd ..
+  123  cd ..
+  124  python hello_python.py
+  125  python hello_python.py
+  126  python hello_python.py
+  127  python hello_python.py
+  128  python hello_python.py
+  129  python hello_python.py
+  130  python hello_python.py
+  131   clear
+  132  cd ..
+  133  ls
+  134  cd Python_Project
+  135  ls
+  136  cd 02_Returned_Goods
+  137  ls
+  138  cd Unsolved
+  139  ls
+  140  python returned_goods.py
+  141  python returned_goods.py
+  142  python returned_goods.py
+  143  python returned_goods.py
+  144  python returned_goods.py
+  145  python returned_goods.py
+  146  python returned_goods.py
+  147  python returned_goods.py
+  148  python returned_goods.py
+  149  python returned_goods.py
+  150  clear
+  151  ls
+  152  cd ..
+  153  cd ..
+  154  ls
+  155  cd 03_Split_Second_Homebuying_Part_2
+  156  ls
+  157  cd Unsolved
+  158  ls
+  159  python split_second_part_2.py
+  160  python split_second_part_2.py
+  161  python split_second_part_2.py
+  162  python split_second_part_2.py
+  163  python split_second_part_2.py
+  164  python split_second_part_2.py
+  165  python split_second_part_2.py
+  166  cd ..
+  167  cd ..
+  168  ls
+  169  clear
+  170  python hello_python.py
+  171  python hello_python.py
+  172  python hello_python.py
+  173  python hello_python.py
+  174  python hello_python.py
+  175  python hello_python.py
+  176  python hello_python.py
+  177  python hello_python.py
+  178  python hello_python.py
+  179  python hello_python.py
+  180  python hello_python.py
+  181  clear
+  182  ls
+  183  cd 01_Racking_Up_The_Profit
+  184  ls
+  185  cd Unsolved
+  186  ls
+  187  python racking_up_the_profit.py
+  188  python racking_up_the_profit.py
+  189  python racking_up_the_profit.py
+  190  python racking_up_the_profit.py
+  191  python racking_up_the_profit.py
+  192  python racking_up_the_profit.py
+  193  python racking_up_the_profit.py
+  194  python racking_up_the_profit.py
+  195  python racking_up_the_profit.py
+  196  ls
+  197  python racking_up_the_profit.py
+  198  python racking_up_the_profit.py
+  199  cd ..
+  200  cd ..
+  201  ls
+  202  cd hello_python.py
+  203  python hello_python.py
+  204  python hello_python.py
+  205  python hello_python.py
+  206  python hello_python.py
+  207  python hello_python.py
+  208  python hello_python.py
+  209  python hello_python.py
+  210  python hello_python.py
+  211  python hello_python.py
+  212  python hello_python.py
+  213  python hello_python.py
+  214  python hello_python.py
+  215  python hello_python.py
+  216  python hello_python.py
+  217  python hello_python.py
+  218  python hello_python.py
+  219  python hello_python.py
+  220  python hello_python.py
+  221  python hello_python.py
+  222  python hello_python.py
+  223  python hello_python.py
+  224  python hello_python.py
+  225  python hello_python.py
+  226  python hello_python.py
+  227  python hello_python.py
+  228  python hello_python.py
+  229  python hello_python.py
+  230  python hello_python.py
+  231  python hello_python.py
+  232  python hello_python.py
+  233  python hello_python.py
+  234  python hello_python.py
+  235  cd ..
+  236  ls
+  237  cd Python_Project
+  238  ls
+  239  cd 02_Pathways_to_Success_Part_1
+  240  ls
+  241  cd Unsolved
+  242  ls
+  243  python pathways_to_success.py
+  244  cd ..
+  245  cd ..
+  246  ls
+  247  python ls
+  248  python hello_python.py
+  249  clear
+  250  ls
+  251  python hello_python.py
+  252  python hello_python.py
+  253  python hello_python.py
+  254  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  255  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Python_Project/03_Pathways_to_Success_Part_2/Unsolved/pathways_to_success_part_2.py
+  256  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  257  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  258  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Python_Project/04_Automating_Equity_Rounds/Unsolved/automated_equity_rounds.py
+  259  activate conda dev
+  260  conda activate dev
+  261  python hello_python.py
+  262  clear
+  263  ls
+  264  cd Desktop
+  265  ls
+  266  cd FinTech
+  267  ls
+  268  cd Python_Project
+  269  ls
+  270  cd 04_Automating_Equity_Rounds
+  271  ls
+  272  cd Unsolved
+  273  ls
+  274  python automated_equity_rounds.py
+  275  python automated_equity_rounds.py
+  276  python automated_equity_rounds.py
+  277  python automated_equity_rounds.py
+  278  python automated_equity_rounds.py
+  279  python automated_equity_rounds.py
+  280  python automated_equity_rounds.py
+  281  python automated_equity_rounds.py
+  282  python automated_equity_rounds.py
+  283  python automated_equity_rounds.py
+  284  python automated_equity_rounds.py
+  285  python automated_equity_rounds.py
+  286  clear
+  287  python automated_equity_rounds.py
+  288  python automated_equity_rounds.py
+  289  python automated_equity_rounds.py
+  290  python automated_equity_rounds.py
+  291  clear
+  292  clear
+  293  python automated_equity_rounds.py
+  294  python automated_equity_rounds.py
+  295  python automated_equity_rounds.py
+  296  python automated_equity_rounds.py
+  297  deactivate conda
+  298  conda deactivate
+  299  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/01_Ins_Variables/Solved/variables.py
+  300  conda activate dev
+  301  pwd
+  302  pwd
+  303  ls
+  304  cd 
+  305  pwd
+  306  ls
+  307  cd Desktop
+  308  cd FinTech
+  309  ls
+  310  cd Classes
+  311  ls
+  312  cd 2021-09-21
+  313  ls
+  314  cd 1
+  315  ls
+  316  cd Activities
+  317  ls
+  318  cd 01_Ins_Variables
+  319  ls
+  320  cd Unsolved
+  321  ls
+  322  python variables.py
+  323  clear
+  324  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  325  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/01_Ins_Variables/Unsolved/variables.py
+  326  ls
+  327  python variables.py
+  328  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/01_Ins_Variables/Solved/variables.py
+  329  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  330  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  331  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  332  python /Users/christinasd/Desktop/FinTech/Classes/2021-09-21/1/Activities/02_Stu_Percent_Increase/Unsolved/percent_increase.py
+  333  cd
+  334  cd ..
+  335  ls
+  336  cd christinasd
+  337  ls
+  338  cd Desktop
+  339  ls
+  340  cd FinTech
+  341  ls
+  342  cd Classes
+  343  ls
+  344  cd 2021-09-21
+  345  cd 1
+  346  ls
+  347  cd Activities
+  348  ls
+  349  cd 03_Ins_Lists
+  350  ls
+  351  cd Solved
+  352  ls
+  353  python lists.py
+  354  cd ..
+  355  ls
+  356  ls
+  357  cd ..
+  358  ls
+  359  cd 04_Stu_Manipulating_Lists
+  360  ls
+  361  cd Unsolved
+  362  python manipulating_lists.py
+  363  clear
+  364  cd ..
+  365  cd ..
+  366  cd ..
+  367  cd ..
+  368  cd ..
+  369  cd ..
+  370  ls
+  371  cd Module_Challenges
+  372  ls
+  373  cd Module_1
+  374  ls
+  375  cd Starter_Code
+  376  ls loan_analyzer.py
+  377  python loan_analyzer.py
+  378  python loan_analyzer.py
+  379  python loan_analyzer.py
+  380  python loan_analyzer.py
+  381  python loan_analyzer.py
+  382  conda activate dev
+  383  ls
+  384  cd Desktop
+  385  cd FinTech
+  386  ls
+  387  cd Module_Challenges
+  388  ls
+  389  cd Module_1
+  390  ls
+  391  cd Starter_Code
+  392  ls
+  393  python loan_analyzer.py
+  394  python loan_analyzer.py
+  395  python loan_analyzer.py
+  396  python loan_analyzer.py
+  397  python loan_analyzer.py
+  398  python loan_analyzer.py
+  399  python loan_analyzer.py
+  400  python loan_analyzer.py
+  401  python loan_analyzer.py
+  402  clear
+  403  python loan_analyzer.py
+  404  python loan_analyzer.py
+  405  python loan_analyzer.py
+  406  python loan_analyzer.py
+  407  python loan_analyzer.py
+  408  python loan_analyzer.py
+  409  python loan_analyzer.py
+  410  python loan_analyzer.py
+  411  python loan_analyzer.py
+  412  conda activate dev
+  413  ls
+  414  cd Desktop
+  415  ls
+  416  cd FinTech
+  417  ls
+  418  cd Classes
+  419  ls
+  420  cd 2021-09-21
+  421  ls
+  422  cd 1
+  423  ls
+  424  cd Activities
+  425  ls
+  426  cd 05
+  427  cd 05_Ins_Dictionaries
+  428  cd S
+  429  cd Solved
+  430  ls
+  431  python dicts.py
+  432  clear
+  433  ls
+  434  cd ..
+  435  cd ..
+  436  cd 06_Stu_Working_with_Dictionaries
+  437  ls
+  438  python README.md
+  439  python README.md
+  440  cd ..
+  441  ls
+  442  cd 06_Stu_Working_with_Dictionaries
+  443  ls
+  444  python README.py
+  445  clear
+  446  python README.py
+  447  python README.py
+  448  python README.py
+  449  python README.py
+  450  python README.py
+  451  python README.py
+  452  python README.py
+  453  python README.py
+  454  python README.py
+  455  clear
+  456  cd ..
+  457  ls
+  458  ls
+  459  ls
+  460  cd ..
+  461  cd ..
+  462  ls
+  463  cd 02_2021-09-23
+  464  ls
+  465  cd Activities
+  466  ls
+  467  cd 05_Stu_Conditionals
+  468  ls
+  469  clear
+  470  ls
+  471  cd Unsolved
+  472  ls
+  473  python conditionals.py
+  474  /usr/local/bin/python3 /Users/christinasd/Desktop/file.py
+  475  conda activate dev
+  476  cd
+  477  ls
+  478  cd Desktop
+  479  ls
+  480  cd FinTech
+  481  ls
+  482  cd Module_Challenges
+  483  cd Module_1
+  484  cd Starter_Code
+  485  python loan_analyzer.py
+  486  python loan_analyzer.py
+  487  python loan_analyzer.py
+  488  python loan_analyzer.py
+  489  python loan_analyzer.py
+  490  python loan_analyzer.py
+  491  python loan_analyzer.py
+  492  python loan_analyzer.py
+  493  python loan_analyzer.py
+  494  python loan_analyzer.py
+  495  python loan_analyzer.py
+  496  python loan_analyzer.py
+  497  python loan_analyzer.py
+  498  python loan_analyzer.py
+  499  python loan_analyzer.py
+  500  python loan_analyzer.py
+  501  python loan_analyzer.py
+  502  python loan_analyzer.py
+  503  python loan_analyzer.py
+  504  python loan_analyzer.py
+  505  python loan_analyzer.py
+  506  python loan_analyzer.py
+  507  python loan_analyzer.py
+  508  python loan_analyzer.py
+  509  clear
+  510  python loan_analyzer.py
+  511  python loan_analyzer.py
+  512  python loan_analyzer.py
+  513  python loan_analyzer.py
+  514  python loan_analyzer.py
+  515  python loan_analyzer.py
+  516  python loan_analyzer.py
+  517  clear
+  518  python loan_analyzer.py
+  519  clear
+  520  python loan_analyzer.py
+  521  clear
+  522  conda activate dev
+  523  pip -V
+  524  pip freeze
+  525  pip install fire
+  526  pip install questionary
+  527  clear
+  528  cd ..
+  529  ls
+  530  cd christinasd
+  531  ls
+  532  cd Desktop
+  533  ls
+  534  cd FinTech
+  535  ls
+  536  cd 02-Financial-Applications-with-Python
+  537  ls
+  538  cd Module_2.py
+  539  python Module_2.py
+  540  ls
+  541  cd 01_Loan_Qualifier_Financial_Calculations
+  542  ls
+  543  cd Unsolved
+  544  ls
+  545  python app.py
+  546  cd Unsolved
+  547  cd ..
+  548  cd ..
+  549  ls
+  550  cd 01_Loan_Qualifier_Financial_Calculations
+  551  ls
+  552  cd Unsolved
+  553  ls
+  554  cd ..
+  555  cd ..
+  556  ls
+  557  python Module_2.py
+  558  cd
+  559  ls
+  560  cd Desktop
+  561  ls
+  562  cd FinTech
+  563  cd 02-Financial-Applications-with-Python
+  564  cd 02_Loan_Qualifier_Filtering_Data
+  565  cd Unsolved
+  566  clear
+  567  python app.py
+  568  python app.py
+  569  python app.py
+  570  clear
+  571  cd ..
+  572  ls
+  573  cd utils
+  574  ls
+  575  python fileio.py
+  576  conda activate dev
+  577  cd Desktop
+  578  cd FinTech
+  579  ls
+  580  git clone https://ucb.bootcampcontent.com/UCB-Coding-Bootcamp/ucb-virt-fin-pt-09-2021-u-b.git
+  581  git pull
+  582  git pull
+  583  ls
+  584  cd ucb-virt-fin-pt-09-2021-u-b
+  585  git pull
+  586  cd ..
+  587  ls
+  588  cd 02-Financial-Applications-with-Python
+  589  ls
+  590  cd Class_1_Activities
+  591  ls
+  592  ls
+  593  cd 01_Stu_Python_Code_Drills
+  594  ls
+  595  cd Unsolved
+  596  ls
+  597  cd 01-variables-01
+  598  ls
+  599  cd Unsolved
+  600  ls
+  601  python variables-01.py
+  602  python variables-01.py
+  603  python variables-01.py
+  604  python variables-01.py
+  605  python variables-01.py
+  606  cd ..
+  607  ls
+  608  cd ..
+  609  ls
+  610  cd 04-condition-control-flow-01
+  611  ls
+  612  python Unsolved
+  613  cd Unsolved
+  614  ls
+  615  python condition-control-flow-01.py
+  616  python condition-control-flow-01.py
+  617  python condition-control-flow-01.py
+  618  cd ..
+  619  cd ..
+  620  ls
+  621  cd 05-dicts-02
+  622  ls
+  623  cd Unsolved
+  624  ls
+  625  python show_data.py
+  626  python dicts-02.py
+  627  cd ..
+  628  cd ..
+  629  ls
+  630  cd 06-loops-01
+  631  ls
+  632  cd Unsolved
+  633  ls
+  634  python loops-01.py
+  635  python loops-01.py
+  636  python loops-01.py
+  637  python loops-01.py
+  638  conda activate dev
+  639  cd
+  640  ls
+  641  cd Desktop
+  642  ls
+  643  cd FinTech
+  644  ls
+  645  cd 02-Financial-Applications-with-Python
+  646  ls
+  647  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_1
+  648  cd Unsolved
+  649  cd qualifier/qualifier
+  650  ls
+  651  python app.py
+  652  python app.py
+  653  python app.py
+  654  python app.py
+  655  python app.py
+  656  python app.py
+  657  cd ..
+  658  ls
+  659  python app.py
+  660  python app.py
+  661  cd ..
+  662  cd ..
+  663  ls
+  664  cd Unsolved
+  665  ls
+  666  cd qualifier
+  667  ls
+  668  python 
+  669  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/02-Financial-Applications-with-Python/01_Modularize_Your_Loan_Qualifier_Application_Part_2/Unsolved/app.py
+  670  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  671  conda activate dev
+  672  ls
+  673  cd Desktop
+  674  ls
+  675  cd FinTech
+  676  ls
+  677  cd 02-Financial-Applications-with-Python
+  678  ls
+  679  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_1
+  680  ls
+  681  cd Unsolved
+  682  ls
+  683  cd qualifier
+  684  ls
+  685  cd qualifier
+  686  ls
+  687  cd ..
+  688  ls
+  689  python app.py
+  690  python app.py
+  691  python app.py
+  692  cd ..
+  693  cd ..
+  694  cd ..
+  695  cd 01_Modularize_Your_Loan_Qualifier_Application_Part_2
+  696  ls
+  697  cd Unsolved
+  698  ls
+  699  python app.py
+  700  python app.py
+  701  python app.py
+  702  pwd
+  703  pwd
+  704  mkdir test_folder
+  705  touch fintech-file.txt
+  706  rm fintech-file.txt
+  707  rm test_folder
+  708  cd ..
+  709  rm -r
+  710  pip install fire
+  711  import fire
+  712  cd ..
+  713  cd ..
+  714  import fire
+  715  ls
+  716  python cli.py
+  717  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  718  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  719  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  720  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  721  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  722  pip install fire
+  723  conda activate dev
+  724  python setup.py install
+  725  cd ..
+  726  ls
+  727  cd christinasd
+  728  cd Desktop
+  729  cd FinTech
+  730  ls
+  731  cd 02-Financial-Applications-with-Python
+  732  ls
+  733  /Users/christinasd/Desktop/FinTech/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  734  ls
+  735  python /Users/christinasd/Desktop/FinTech/ucb-virt-fin-pt-09-2021-u-b/Live-Lesson-Activities/02-Financial-Applications-Python/1/Activities/03_Inst_ATM_Application_Logic/Unsolved/atm.py
+  736  cd ..
+  737  ls
+  738  cd ucb-virt-fin-pt-09-2021-u-b
+  739  ls
+  740  cd Live-Lesson-Activities
+  741  ls
+  742  cd 02-Financial-Applications-Python
+  743  ls
+  744  cd 1
+  745  ls
+  746  cd Activities
+  747  ls
+  748  cd 03_Inst_ATM_Application_Logic
+  749  cd Unsolved
+  750  python atm.py
+  751  python atm.py
+  752  python atm.py
+  753  clear
+  754  conda create -n atmdev python=3.7 anaconda
+  755  conda activate atmdev
+  756  python atm.py
+  757  pip install -r
+  758  pip install -r requirements.txt
+  759  cd ..
+  760  ls
+  761  cd ..
+  762  cd ..
+  763  cd ..
+  764  python3 cli.py hello christina
+  765  cd ..
+  766  pwd
+  767  cd ..
+  768  cd ..
+  769  cd ..
+  770  python3 cli.py hello tina
+  771  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  772  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  773  pip install fire
+  774  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  775  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  776  pip3 install fire
+  777  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  778  pip3 intall fire
+  779  conda activate dev
+  780  pip3 install fire
+  781  echo path
+  782  echo %path%
+  783  echo %PATH%
+  784  pwd
+  785  pwd
+  786  pip3 install fire
+  787  pwd
+  788  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/cli.py
+  789  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/02-Financial-Applications-with-Python/02_Adding_questionary_to_Loan_Qualifier/dialog.py
+  790  pip install questionary
+  791  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/02-Financial-Applications-with-Python/Starter_Code/loan_qualifier_app/fire.py
+  792  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/02-Financial-Applications-with-Python/Starter_Code/loan_qualifier_app/fire.py
+  793  /usr/local/bin/python3 /Users/christinasd/Desktop/FinTech/02-Financial-Applications-with-Python/Starter_Code/loan_qualifier_app/fire.py
+  794  conda activate dev
+  795  cd Desktop/FinTech
+  796  ls
+  797  python cli.py
+  798  python cli.py --pants=True
+  799  python cli.py --pants=True
+  800  clear
+  801  ls
+  802  cd 02-Financial-Applications-with-Python/01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  803  python app.py
+  804  python app.py --credit_score=750
+  805  python app.py --credit_score=750 --debt=5000 ==income=60000
+  806  python app.py --credit_score=750 --debt=5000 ==income=60000
+  807  python app.py --credit_score=750 --debt=5000 ==income=20000
+  808  python app.py --credit_score=750 --debt=5000 --income=20000
+  809  python app.py --credit_score=750 --debt=5000 --income=60000
+  810  python app.py --credit_score=800
+  811  python app.py --credit_score=400
+  812  python app.py --credit_score=750 --debt=5000 --income=60000
+  813  pip install questionary
+  814  cd ..
+  815  cd ..
+  816  cd ..
+  817  python dialog.py
+  818  cd 02-Financial-Applications-with-Python
+  819  python dialog.py
+  820  python dialog.py
+  821  ls
+  822  cd 02_Adding_questionary_to_Loan_Qualifier
+  823  ls
+  824  cd Unsolved
+  825  ls
+  826  python app.py --credit_score=750 --debt=5000 --income=20000
+  827  python app.py --credit_score=750 --debt=5000 --income=20000
+  828  pwd
+  829  python app.py
+  830  python app.py
+  831  clear
+  832  pwd
+  833  /
+  834  cd~
+  835  cd../..
+  836  ls
+  837  cd ..
+  838  cd ..
+  839  cd ..
+  840  cd ..
+  841  cd ..
+  842  clear
+  843  git config --global user.name Christina San Diego
+  844  git config --global user.email cbuted@gmail.com
+  845  git config --list
+  846  cd ..
+  847  ls
+  848  cd christinasd
+  849  cd Desktop/FinTech
+  850  ls
+  851  cd 02-Financial-Applications-with-Python
+  852  ls
+  853  git clone https://github.com/cbsandiego/loan_qualifier.git
+  854  git status
+  855  ls
+  856  cd loan_qualifier
+  857  git status
+  858  git add README.md
+  859  git status
+  860  touch new_file.txt
+  861  git status
+  862  git add
+  863  git add new_file.txt
+  864  git status
+  865  git commit -m "commit test README.md and new_file.txt"
+  866  git status
+  867  git push
+  868  git push
+  869  git push
+  870  git push
+  871  cd ..
+  872  git clone https://github.com/cbsandiego/markdown_syntax.git
+  873  cd markdown_syntax
+  874  ls
+  875  git add README.md
+  876  git status
+  877  git push README.md
+  878  git commit -m "first commit to markdown syntax"
+  879  git status
+  880  git push
+  881  git add README.md
+  882  git push README.md
+  883  git commit -m "working on italics on markdown syntax"
+  884  git push README.md
+  885  git push
+  886  git status
+  887  git add README.md
+  888  git status
+  889  git push
+  890  git status
+  891  git commit -m "adding horizontal line and code snippet"
+  892  git status
+  893  git push
+  894  git add README.md
+  895  git commit -m "adding text"
+  896  git push
+  897  git add README.md
+  898  git commit -m "including text with link"
+  899  git push
+  900  git add README.md
+  901  git commit -m "including paragraph spaces"
+  902  git push
+  903  git add README.md
+  904  git commit -m "including an image"
+  905  git push
+  906  git add README.md
+  907  git commit -m "updating image link"
+  908  git push
+  909  git add README.md
+  910  git add images
+  911  git status
+  912  git commit -m "updating image"
+  913  git push
+  914  git add images
+  915  git commit -m "correcting image link"
+  916  git add README.md
+  917  git commit -m "updated text to image"
+  918  git push
+  919  cd ..
+  920  cd 01_Adding_Fire_to_the_Loan_Qualifier_App/Unsolved
+  921  ls
+  922  cd README.md
+  923  git add README.md
+  924  git clone https://github.com/cbsandiego/markdown_syntax.git
+  925  git add README.md
+  926  git status
+  927  cd ..
+  928  cd ..
+  929  cd Starter_Code/loan_qualifier_app
+  930  ls
+  931  pip install fire
+  932  pip install questionary
+  933  history 50 > terminal_history.txt
+  934  clear
+  935  ls
+  936  python app.py
+  937  python app.py
+  938  python app.py
+  939  python app.py
+  940  python app.py
+  941  git clone https://github.com/cbsandiego/loan_qualifier.git
+  942  git status
+  943  ls
+  944  git add app.py
+  945  git add README.md
+  946  ls
+  947  pwd
+  948  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+  949  git status
+  950  cd ..
+  951  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+  952  ls
+  953  cd loan_qualifier_app
+  954  git status
+  955  cd ..
+  956  ls
+  957  cd loan_qualifier_app
+  958  git status
+  959  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+  960  cd ..
+  961  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+  962  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+  963  git status
+  964  ls
+  965  cd loan_qualifier_app
+  966  ls
+  967  git status
+  968  git add README.md
+  969  git commit -m README.md
+  970  git push README.md
+  971  git commit -m "First update to README.md"
+  972  git push
+  973  git push images
+  974  git push images/home_loan.jpg
+  975  git add images
+  976  git commit -m "uploading images for use in README.md"
+  977  git push
+  978  git add README.md
+  979  git commit -m "updating usage information on README.md"
+  980  git push
+  981  git add README.md
+  982  git commit -m "updating README.md with usage information"
+  983  git push
+  984  cd ..
+  985  ls 
+  986  cd loan_qualifier_app
+  987  git status
+  988  git push README.md
+  989  git add README.md
+  990  git commit -m "updating usage information on README.md"
+  991  git push
+  992  git add README.md
+  993  git commit -m "adding README.md file"
+  994  git push
+  995  git add README.md
+  996  git commit -m "including README file to repository"
+  997  git push
+  998  pwd
+  999  git status
+ 1000  git push
+ 1001  cd Desktop/FinTech
+ 1002  cd 02-Financial-Applications-with-Python
+ 1003  git clone https://github.com/cbsandiego/loan_qualifier_app.git
+ 1004  git status
+ 1005  cd loan_qualifier_app
+ 1006  git status
+ 1007  git add README.md
+ 1008  git commit -m "including README.md file to respository"
+ 1009  git push
+ 1010  git add images
+ 1011  git commit -m "including file of images to repository"
+ 1012  git push
+ 1013  git add app.py
+ 1014  git commit -m "adding app.py to respository"
+ 1015  git push
+ 1016  git add data
+ 1017  git add qualif
+ 1018  git add qualifier
+ 1019  git add qualifying_loans.csv
+ 1020  git commit -m "adding data folder, qualifier folder and qualifying loans csv"
+ 1021  git push
+ 1022  python app.py
+ 1023  python app.py
+ 1024  python app.py
+ 1025  python app.py
+ 1026  python app.py
+ 1027  python app.py
+ 1028  python app.py
+ 1029  python app.py
+ 1030  python app.py
+ 1031  conda activate dev
+ 1032  python app.py
+ 1033  python app.py
+ 1034  python app.py
+ 1035  python app.py
+ 1036  python app.py
+ 1037  python app.py
+ 1038  python app.py
+ 1039  clear
+ 1040  python app.py
+ 1041  python app.py
+ 1042  python app.py
+ 1043  python app.py
+ 1044  python app.py
+ 1045  git status
+ 1046  git add app.py
+ 1047  git add qualifier/utils/fileio.py
+ 1048  git add qualifying_loans.csv
+ 1049  git commit -m "input acceptance criteria"
+ 1050  git push
+ 1051  history 50 > terminal_history.txt
+ 1052  python app.py
+ 1053  python app.py
+ 1054  python app.py
+ 1055  python app.py
+ 1056  python app.py
+ 1057  python app.py
+ 1058  python app.py
+ 1059  python app.py
+ 1060  python app.py
+ 1061  python app.py
+ 1062  python app.py
+ 1063  python app.py
+ 1064  python app.py
+ 1065  python app.py
+ 1066  python app.py
+ 1067  python app.py
+ 1068  python app.py
+ 1069  python app.py
+ 1070  python app.py
+ 1071  python app.py
+ 1072  python app.py
+ 1073  python app.py
+ 1074  git status
+ 1075  git add app.py
+ 1076  git add qualifier/utils/fileio.py
+ 1077  git add qualifying_loans.csv
+ 1078  git commit -m "creating header for qualifying_loans.csv"
+ 1079  git push
+ 1080  clear
+ 1081  python app.py
+ 1082  clear
+ 1083  clear
+ 1084  python app.py
+ 1085  python app.py
+ 1086  git status
+ 1087  git add README.md
+ 1088  git add images/appfilterexample.jpg
+ 1089  git commit -m "additional information to Usage on README.md"
+ 1090  git push
+ 1091  history 50 > terminal_history.txt
+ 1092  history 50 < terminal_history.txt
+ 1093  python app.py
+ 1094  python app.py
+ 1095  python app.py
+ 1096  python app.py
+ 1097  python app.py
+ 1098  python app.py
+ 1099  python app.py
+ 1100  python app.py
+ 1101  python app.py
+ 1102  python app.py
+ 1103  python app.py
+ 1104  python app.py
+ 1105  git status
+ 1106  git add README.md
+ 1107  git add app.py
+ 1108  git add data/qualifying_loans.csv
+ 1109  git commit -m "updated Usage in README.md and cleaned code when prompt for file path"
+ 1110  git push
+ 1111  git status
+ 1112  git add README.md
+ 1113  git commit -m "including description of fire and questionary."
+ 1114  git push
+ 1115  git status
+ 1116  git add README.md
+ 1117  git commit -m "including bullet points"
+ 1118  git push
