@@ -114,7 +114,7 @@ def save_qualifying_loans(qualifying_loans):
     
     # User should be able to opt out of saving the file.
     if not save_qualifying_loans:
-        sys.exit("You have opted out of saving your list of qualifying loans.")
+        sys.exit("You have opted out of saving your list of qualifying loans to a CSV file.")
 
     # If no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
     if not qualifying_loans:
