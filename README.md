@@ -2,7 +2,7 @@
 ---
 ![Weighting home loan options.](images/home_loan.jpg)
 
-This is python command-line interface (CLI) application that gives users the ability to easily save their qualifying loans as a new CSV file to allow results to be shared as a spreadsheet.
+This is python command-line interface (CLI) application that gives users the ability to easily search for qualifying loans and save their search results as a new CSV file.  This allows results to be shared as a spreadsheet.
 ---
 
 ## Technologies
@@ -28,15 +28,17 @@ First install the following packages:
 
 ## Usage
 
-To begin saving your loan qualifier application to a CSV file simply clone the repository and run the **app.py** on the CLI:
+1. To begin saving your loan qualifier application to a CSV file simply clone the repository and run the **app.py** on the CLI:
 
 ```python
 python app.py
 ```
 
-Once you have launched the loan qualifier application, you will be asked to provide a file path to a rate-sheet.  Here you will use:
+2. Once you begin the loan qualifier application, you will be asked to provide a file path to a rate-sheet.  Here you will use:
 > ./data/daily_rate_sheet.csv
 
+3. To help the application filter your list of qualifying loans, you will be asked a series of helpful information.
+![Example of application filter questions](images/appfilterexample.jpg)
 ---
 
 ## Contributors
