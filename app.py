@@ -112,29 +112,34 @@ def save_qualifying_loans(qualifying_loans):
 
     '''Acceptance Criteria:  Prompts user to save CSV file'''
 
-    # Prompt user to save the results as a CSV file.
+    # Prompt user to save qualifying loans as a CSV file.
     save_qualifying_loans = questionary.confirm("Please confirm if you would like to save your list of qualifying loans as a CSV file.").ask()
+    # User should be able to opt out of saving the file.
+    if not save_qualifying_loans:
+        sys.exit("You have opted out of saving your list of qualifying loans.")
 
     # If no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
     if not qualifying_loans:
         sys.exit("Sorry, there are no qualifying loans at the moment.")
-
-    # User should be able to opt out of saving the file.
-    save_qualifying_loans = questionary.confirm("")
-    
-    # When choosing to save the loans, then the tool should save the results as a CSV file.
-    
-    # Save qualifying loans
    
-    # When choosing to save the loans, the tool should prompt for a file path to save the file.
-    csv_path = questionary.path("Enter a CSV file path to qualifying_loan").ask()
+    # Prompt for a file path to save the file.
+    csvpath = questionary.path("Enter a CSV file path to save your list of qualifying_loans").ask()
+       
+    # Adding header information to CSV file
+    header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
+
+    # When choosing to save the loans, then the tool should save the results as a CSV file.
     csvpath = Path('qualifying_loans.csv')
-    save_csv(csvpath, qualifying_loans)
+
+    save_csv(csvpath, header, qualifying_loans)
+   
+    print("Writing qualifying_loans to a CSV file...")
+    print(f"A copy of your CSV has been saved to {csvpath}")
+   
     if not csvpath.exists():
         sys.exit(f"Oops! Can't find this path: {csvpath}")
 
-    print("Writing qualifying_loans to a CSV file...")
-
+    
 
 def run():
     """The main function for running the script."""

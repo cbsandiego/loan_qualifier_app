@@ -17,6 +17,7 @@ def load_csv(csvpath):
         A list of lists that contains the rows of data from the CSV file.
 
     """
+    
     with open(csvpath, "r") as csvfile:
         data = []
         csvreader = csv.reader(csvfile, delimiter=",")
@@ -29,18 +30,22 @@ def load_csv(csvpath):
             data.append(row)
     return data
     
-def save_csv(csvpath, data, header=None):
+def save_csv(csvpath, header, qualifying_loans):
     """Saves the CSV file from path provided.
 
     Args:
         csvpath (Path): The CSV file path.
+        header (list):  Header for CSV file.
         data (list of lists): A list of the rows of data for the CSV file.
-        header (list): An optional header for the CSV.
 
     """
-
     with open(csvpath, "w", newline="") as csvfile:
-        csvwriter = csv.writer(csvfile, delimiter=',')
-        if header:
-            csvwriter.writerow(header)
-        csvwriter.writerows(data)
+        csvwriter = csv.writer(csvfile)
+        
+        # Writes header information first
+        csvwriter.writerow(header)
+        
+        # Then write data rows
+        for row in qualifying_loans:
+            csvwriter.writerow(row)
+    return
