@@ -37,13 +37,18 @@ python app.py
 2. Once you begin the loan qualifier application, you will be asked to provide a file path to a rate-sheet.  Here you will use:
 > ./data/daily_rate_sheet.csv
 
-3. To help the application filter your list of qualifying loans, you will be asked a series of helpful information.
+3. To help the application filter through a list of qualifying loans, you will be asked a series of helpful information.  See below.
+
 ![Example of application filter questions](images/appfilterexample.jpg)
+
+4. The user will also be given the option to save a copy of qualifying_loans as a CSV to view as a spreadsheet.
+
 ---
 
 ## Contributors
 
-Christina San Diego:[  Email  ](mailto:christina.b.sandiego@gmail.com)[LinkedIn](https://www.linkedin.com/in/christinabuted)
+Christina San Diego
+[  Email  ](mailto:christina.b.sandiego@gmail.com)[ LinkedIn ](https://www.linkedin.com/in/christinabuted)
 
 ---
 
