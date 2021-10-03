@@ -112,7 +112,6 @@ def save_qualifying_loans(qualifying_loans):
 
     '''Acceptance Criteria:  Prompts user to save CSV file'''
 
-    # Prompt user to save qualifying loans as a CSV file.
     save_qualifying_loans = questionary.confirm("Please confirm if you would like to save your list of qualifying loans as a CSV file.").ask()
     # User should be able to opt out of saving the file.
     if not save_qualifying_loans:
@@ -128,7 +127,7 @@ def save_qualifying_loans(qualifying_loans):
     # Adding header information to CSV file
     header = ["Lender","Max Loan Amount","Max LTV","Max DTI","Min Credit Score","Interest Rate"]
 
-    # When choosing to save the loans, then the tool should save the results as a CSV file.
+    # Saving results in file path under qualifying_loans.csv
     csvpath = Path(target_folder + '/qualifying_loans.csv')
 
     save_csv(csvpath, header, qualifying_loans)
