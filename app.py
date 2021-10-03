@@ -101,6 +101,7 @@ def find_qualifying_loans(bank_data, credit_score, debt, income, loan, home_valu
 
     return bank_data_filtered
 
+# 
 
 def save_qualifying_loans(qualifying_loans):
     """Saves the qualifying loans to a CSV file.
@@ -108,8 +109,31 @@ def save_qualifying_loans(qualifying_loans):
     Args:
         qualifying_loans (list of lists): The qualifying bank loans.
     """
+
+    '''Acceptance Criteria:  Prompts user to save CSV file'''
+
+    # Prompt user to save the results as a CSV file.
+    save_qualifying_loans = questionary.confirm("Please confirm if you would like to save your list of qualifying loans as a CSV file.").ask()
+
+    # If no qualifying loans exist, when prompting a user to save a file, then the program should notify the user and exit.
+    if not qualifying_loans:
+        sys.exit("Sorry, there are no qualifying loans at the moment.")
+
+    # User should be able to opt out of saving the file.
+    save_qualifying_loans = questionary.confirm("")
+    
+    # When choosing to save the loans, then the tool should save the results as a CSV file.
+    
+    # Save qualifying loans
+   
+    # When choosing to save the loans, the tool should prompt for a file path to save the file.
+    csv_path = questionary.path("Enter a CSV file path to qualifying_loan").ask()
     csvpath = Path('qualifying_loans.csv')
     save_csv(csvpath, qualifying_loans)
+    if not csvpath.exists():
+        sys.exit(f"Oops! Can't find this path: {csvpath}")
+
+    print("Writing qualifying_loans to a CSV file...")
 
 
 def run():
@@ -126,9 +150,9 @@ def run():
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
 
-    # Save qualifying loans
     save_qualifying_loans(qualifying_loans)
 
 
+# Entry point for application.  Initiates the (run) function.
 if __name__ == "__main__":
     fire.Fire(run)
