@@ -117,13 +117,7 @@ def save_qualifying_loans(qualifying_loans):
     if not save_qualifying_loans:
         sys.exit("You have opted out of saving your list of qualifying loans to a CSV file.")
 
-    """ If no qualifying loans exist
-    
-    when prompting a user to save a file, then the program should notify the user and exit. """
-
-    if not qualifying_loans:
-        sys.exit("Sorry, we are unable to identify any qualifying loans at the moment.")
-   
+ 
     """ Asks user to provide target folder path to save CSV file """
     target_folder = questionary.path("Enter a CSV file path to save your list of qualifying_loans").ask()
        
@@ -156,7 +150,11 @@ def run():
     qualifying_loans = find_qualifying_loans(
         bank_data, credit_score, debt, income, loan_amount, home_value
     )
+    """ If no qualifying loans exist, then the program should notify the user and exit. """
 
+    if not qualifying_loans:
+        sys.exit("Sorry, we are unable to identify any qualifying loans at the moment.")
+    
     save_qualifying_loans(qualifying_loans)
 
 
